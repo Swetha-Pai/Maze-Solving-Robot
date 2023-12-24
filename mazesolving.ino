@@ -179,6 +179,10 @@ void followLineOnWhiteBG()
   {
     turnLeftSteep();
   }
+  else if (isStrightOnWhiteBG())
+  {
+    goStright();
+  }
   else if(isSteepRightTurnOnWhiteBG())
   {
     turnRightSteep();
@@ -198,10 +202,6 @@ void followLineOnWhiteBG()
   else if (isSlightRightTurnOnWhiteBG())
   {
     turnRightSlight();
-  }
-  else if (isStrightOnWhiteBG())
-  {
-    goStright();
   }
   else if (allWhiteBG())
   {
