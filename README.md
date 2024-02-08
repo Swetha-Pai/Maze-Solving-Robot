@@ -12,6 +12,6 @@ Parts Required to build the robot:
 4)	1 L293D H-Bridge motor driver shield
 5)	4 AAA Batteries
 6)	Wires to connect the motor and sensors to the Arduino board.
-7)	Black Table to create the Maze.
+7)	Black Tape to create the Maze.
 
 A video of the robot in action can be find here: https://youtu.be/5xUsg1z72lw
